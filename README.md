@@ -1,10 +1,6 @@
 # SuperHero Hunter
 
-Name: Ashish Jha
 
-Linkedin: https://www.linkedin.com/in/ashish-jha5689/
-Regards
-Hosted Link: https://ashish5689.github.io/Superhero-Hunter/
 
 ## Problem statement
 Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript (you can use any css framework like Bootstrap).
